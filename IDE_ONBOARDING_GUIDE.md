@@ -4,7 +4,7 @@
 
 > **Nota importante**: Este documento se enfoca en aspectos técnicos y procedimientos. Para análisis comparativos, reflexiones personales y conclusiones, utiliza el archivo `CONCLUSIONES_EVALUACION.md`.
 
-**Autores**: [Nombre 1] y [Nombre 2]
+**Autores**: [Felipe] y [Alejandro]
 **Fecha V0**: [Fecha de entrega inicial]
 **Fecha V1**: [Fecha de entrega final]
 
@@ -19,19 +19,19 @@
 > **💡 Sobre las imágenes**: Incluye capturas de pantalla para mostrar los diferentes pasos o resultados. Ejemplo: ![Descripción clara del contenido](screenshots/placeholder.png)`
 
 **Proceso de instalación:**
-- **Descarga:** [Describir el proceso]
-- **Opciones del instalador:** [Documentar las opciones que se consideraron importantes]
-- **Verificación:** [Cómo verificar que funciona]
+- **Descarga:** [Me dirigo al sitio oficial de vsc y hago click en descargar, me lleva a este link https://code.visualstudio.com/Download  ![pantalla de descargas](screenshots/Descarga.png) nos da a escojer el sistema operativo, da para escojer entre windows, linux, o MacOS, yo me baje el de windows ![instalador en la carpeta de descargas](screenshots/instalador.png)]
+- **Opciones del instalador:** [al ejecutar el instalador nos pide que aceptemos un acuerdo ![acuerdo de vsc](acuerdo.png)lo aceptamos y luego nos pide que establezcamos un path o un acceso directo, finalmente le damos a instalar![boton de instalar del instalador](instaladorfin.png)]
+- **Verificación:** [abrimos vsc ya sea con el acceso directo o buscandolo en la lupa ![vsc en la lupa](vsc.png) si nos abre es que todo estra correcto, sino puede que haya algun archivo corrupto y haya que reinstalarlo]
 
 *Es posible documentar múltiples métodos.*
 
 ### Uso Básico de VS Code
 
 **Navegación y funcionalidades básicas:**
-- Navegación por la interfaz
-- Edición de código
-- Uso de la paleta de comandos
-- Gestión de archivos y carpetas
+- Navegación por la interfaz: en la barra lateral tenemos iconos para buscar o acceder a las extensiones. tambien está el area del editor.
+- Edición de código: aqui podemos abrir un archivo para modificar su codigo.
+- Uso de la paleta de comandos: si pulsamos Ctrl+Shift+p podemos abrir la paleta y ahi ejecutar los comandos.
+- Gestión de archivos y carpetas: arriba a la izquierda hay una sección llamada "File" en la que nos aparecen diferentes opciones como abrir una carpeta o archivo o crear uno nuevo. ![barra](screenshots/barralat.png)
 
 ### Personalización del Entorno
 
@@ -40,14 +40,15 @@
 *Ejemplos de configuraciones útiles (elegir las que se consideren relevantes):*
 
 **Temas e iconos:**
-Ejemplos:
-- Material Theme, One Dark Pro
-- File Icon Theme para mejor identificación de archivos
-
+Cambie el tema de vsc metiendome en Archivos, Preferencias, y luego temas
+![instalacion de tema](screenshots/materialtema.png)
+Despues instale mas iconos con la extension file icons
+![instalacion de iconos](screenshots/filetema.png)
 **Configuración de fuentes:**
-Ejemplos:
-- Fira Code, JetBrains Mono (con ligaduras)
-
+Cambie el tamaño de la fuente a 15 y la cambie por comic sans metiendome a Archivo, Preferencias, Ajustes y buscando "Fuentes"
+![fuentes en ajustes]
+aqui se puede ver todos los cambios aplicados a la vez
+![todos los cambios hechos](screenshots/temafuenteicono.png)
 **Atajos de teclado útiles:**
 Ejemplos:
 - Ctrl+/ para comentar/descomentar
