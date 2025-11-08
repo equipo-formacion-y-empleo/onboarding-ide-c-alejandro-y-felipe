@@ -1,8 +1,8 @@
 # Conclusiones y Evaluación - Entornos de Desarrollo C#
 
-**Autores**: [Nombre 1] y [Nombre 2]
-**Fecha Entrega Inicial**: [Fecha]
-**Fecha Entrega Final**: [Fecha]
+**Autores**: [Felipe] y [Alejandro]
+**Fecha Entrega Inicial**: []
+**Fecha Entrega Final**: [08/11/2025]
 
 > **Instrucciones**: Completar la **Sección A** para la entrega inicial y **todas las secciones** para la entrega final. Indicar claramente qué partes corresponden a cada fase.
 
@@ -14,18 +14,18 @@
 
 | Aspecto | Visual Studio Code | Visual Studio |
 |---------|-------------------|---------------|
-| **Facilidad de instalación** | [Experiencia inicial] | [Experiencia inicial] |
-| **Primera impresión** | [Evaluación] | [Evaluación] |
-| **Configuración básica** | [Observación] | [Observación] |
-| **Soporte para C#** | [Análisis inicial] | [Análisis inicial] |
+| **Facilidad de instalación** | [instalacion facil] | [mas pasos pero simple tambien] |
+| **Primera impresión** | [interfaz limpia y facil de entender] | [interfaz completa con muchas opciones] |
+| **Configuración básica** | [facil de configurar con las extensiones basicas] | [configuracion inicial mas compleja] |
+| **Soporte para C#** | [bueno con extensiones] | [buen soporte nativo] |
 
 ### Preferencia Inicial
-**IDE que se prefiere tras la configuración inicial:** [Visual Studio Code / Visual Studio]
+**IDE que se prefiere tras la configuración inicial:** [Visual Studio Code]
 
 **Razones iniciales:**
-- [Primera razón basada en configuración inicial]
-- [Segunda razón basada en primeras pruebas]
-- [Tercera razón si aplica]
+- [interfaz mas simple y familiar]
+- [proyectos pequeños]
+- [mejor rendimiento en mi pc]
 
 ---
 
@@ -35,31 +35,31 @@
 
 | Aspecto | Visual Studio Code | Visual Studio |
 |---------|-------------------|---------------|
-| **Productividad real** | [Tras semanas de uso] | [Tras semanas de uso] |
-| **Facilidad para desarrollo** | [Experiencia práctica] | [Experiencia práctica] |
-| **Herramientas más utilizadas** | [Lo que realmente se usa] | [Lo que realmente se usa] |
-| **Valoración final** | [Evaluación final] | [Evaluación final] |
+| **Productividad real** | [excelente para todo tipo de proyectos] | [buena pero mas compleja] |
+| **Facilidad para desarrollo** | [flujo de trabajo agil y eficiente] | [demasiadas opciones] |
+| **Herramientas más utilizadas** | [terminal integrada, git, extensiones] | [depurador, diseñador visual] |
+| **Valoración final** | [9/10] | [7/10] |
 
 ### Evolución de la Preferencia
 
-**¿Cambió la preferencia inicial?** [Sí/No]
+**¿Cambió la preferencia inicial?** [no]
 
-**IDE preferido final:** [Visual Studio Code / Visual Studio]
+**IDE preferido final:** [Visual Studio Code]
 
 **Justificación del cambio o mantenimiento:**
-[Explicar cómo la experiencia práctica influyó en la decisión final]
+[es mas simple y es el que mas acostumbrado estoy]
 
 ### Principales Aprendizajes
 
 **Lo que no se esperaba al principio:**
-- [Descubrimiento 1]
-- [Descubrimiento 2]
+- [la capacidad de visual studio code para autocompletar]
+- [que se pudiera cambiar la fuente de texto]
 
 **Características más valiosas en la práctica:**
-[Herramientas o funcionalidades que resultaron esenciales en el uso diario]
+[la flexibilidad y rapidez de visual studio code, y sus extensiones]
 
 **Características menos útiles de lo esperado:**
-[Funcionalidades que parecían importantes pero no se utilizaron frecuentemente]
+[las extensiones de temas]
 
 ---
 
@@ -68,29 +68,29 @@
 ### Aspectos Más Destacados
 
 **De Visual Studio Code:**
-[Lo que más destacó o resultó útil]
+[la velocidad y facilidad de uso para edicion rapida de codigo]
 
 **De Visual Studio:**
-[Lo que más destacó o resultó útil]
+[el conjunto completo de herramientas]
 
 ### Dificultades Encontradas
 
 **Problemas durante instalación/configuración:**
-[Describir problemas significativos y sus soluciones]
+[visual studio pide actualizarse despues de descargarlo pero no era obligatorio]
 
 **Curva de aprendizaje:**
-[Aspectos que requirieron más tiempo para dominar]
+[aprender a usar el depurador y los atajos de teclado cuesta]
 
 ### Conocimientos Adquiridos
 
 **Principales aprendizajes técnicos:**
-1. [Aprendizaje técnico 1]
-2. [Aprendizaje técnico 2]
-3. [Aprendizaje técnico 3]
+1. [uso del depurador]
+2. [integracion con control de versiones]
+3. [optimizacion del flujo de trabajo]
 
 **Habilidades desarrolladas:**
-- [Habilidad práctica 1]
-- [Habilidad práctica 2]
+- [depuracion de codigo]
+- [uso de herramientas de refactorizacion]
 
 ---
 
@@ -98,45 +98,45 @@
 
 ### Recomendación Principal
 
-**Para desarrollo en C#, se recomienda:** [Visual Studio Code / Visual Studio]
+**Para desarrollo en C#, se recomienda:** [Visual Studio Code]
 
 **Justificación basada en experiencia:**
-[Explicación fundamentada en el uso real de ambas herramientas]
+[su simplicidad y velocidad lo hacen ideal para la mayoria de proyectos, con las extensiones adecuadas]
 
 ### Configuraciones Esenciales
 
 **Configuraciones indispensables para productividad:**
-1. [Configuración crítica 1]
-2. [Configuración crítica 2]
-3. [Configuración crítica 3]
+1. [configuracion del depurador y puntos de interrupcion]
+2. [atajos de teclado personalizados]
+3. [integracion con control de versiones]
 
 **Extensiones que no pueden faltar:**
-- [Extensión esencial 1]
-- [Extensión esencial 2]
+- [c# dev kit]
+- [git lens]
 
 ### Para Futuros Desarrolladores
 
 **Consejos para alguien que inicia con C#:**
-- [Consejo práctico 1]
-- [Consejo práctico 2]
-- [Consejo práctico 3]
+- [comenzar con proyectos pequeños en visual studio code]
+- [practicar el uso del depurador desde el inicio]
+- [aprender los atajos de teclado principales]
 
 **Errores a evitar:**
-- [Error común 1 y cómo evitarlo]
-- [Error común 2 y cómo evitarlo]
+- [no configurar el depurador al inicio del proyecto]
+- [ignorar las extensiones]
 
 ---
 
 ## 🤝 Trabajo en Equipo
 
 ### Organización del Trabajo
-[Describir brevemente cómo se dividieron las tareas entre los integrantes]
+[nos dividimos las tareas mitad y mitad]
 
 ### Beneficios de la Colaboración
-[Ventajas identificadas al trabajar en equipo en este proyecto]
+[aprendimos sobre vsc a la vez]
 
 ### Mejoras para Futuros Proyectos
-[Sugerencias para optimizar la colaboración en proyectos similares]
+[organizarse mejor]
 
 ---
 
@@ -145,14 +145,14 @@
 ### Valor del Enfoque de Dos Fases
 
 **Principal beneficio de evaluar antes y después del uso:**
-[En 2-3 líneas: valor de contrastar impresiones iniciales con experiencia real]
+[pudimos ver como nuestras opiniones cambiaron con la experiencia practica y el uso real de las herramientas]
 
-**¿Se recomienda esta metodología de evaluación?** [Sí/No]
-**¿Por qué?** [Justificación del enfoque progresivo]
+**¿Se recomienda esta metodología de evaluación?** [si]
+**¿Por qué?** []
 
 ### Reflexión Personal
 
 **Lo más valioso del ejercicio:**
-[Principal aprendizaje o insight obtenido del proceso completo]
+[aprender a poner herramientas utiles para programar, como extensiones y ajustes]
 
 ---
